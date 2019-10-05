@@ -1,0 +1,9 @@
+## Interface: 11302
+## Version: 1.0
+## Title: Nameplate EliteDragon
+## Notes: Adds a golden dragon to the nameplate of elite and boss mobs
+## Author: Detonate (@saschan)
+## SavedVariablesPerCharacter: NamePlateEliteDragonUseText, NamePlateEliteDragonUseTexture
+
+NamePlateEliteDragon.lua
+
